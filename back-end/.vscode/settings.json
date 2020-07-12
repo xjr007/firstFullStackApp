@@ -1,0 +1,16 @@
+{
+	"python.pythonPath": "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+	"team.showWelcomeMessage": false,
+	"editor.formatOnSave": true,
+	"python.linting.pycodestyleEnabled": true,
+	"python.linting.pylintPath": "pylint",
+	"python.linting.pylintArgs": ["--load-plugins", "pylint_django"],
+	"python.linting.pylintEnabled": true,
+	"[python]": {
+		"editor.formatOnSave": true
+	},
+	"venvPath": "Full-Stack/backend/env/Scripts/ac",
+	"python.linting.pycodestyleArgs": ["--ignore=E501"],
+	"python.linting.enabled": true,
+	"editor.fontFamily": "Fira Code"
+}
